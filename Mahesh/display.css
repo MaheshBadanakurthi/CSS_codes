@@ -1,0 +1,21 @@
+#RRR{
+    border:3px ridge peru;
+    width:100px;
+    height:100px;
+    display:block;
+    position: relative;
+}
+#RRR2{
+    border:3px ridge rgb(103, 247, 26);
+    width:100px;
+    height:100px;
+    display:inline;
+    position: list-item;
+}
+#RRR3{
+    border:3px ridge rgb(64, 21, 221);
+    width:100px;
+    height:100px;
+    display:grid;
+    position: static;
+}
